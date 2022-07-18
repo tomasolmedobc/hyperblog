@@ -30,6 +30,16 @@ body
 #container h1
 {
     font-size:20px
-}#post{
+}
+#post{
     padding:1em
+}
+#footer {
+    background: rgb(31, 28, 28);
+    width: 70%;
+    text-align: center;
+    color:#ddd;
+    padding: .4em;
+    margin: 0 auto;
+    box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
 }
